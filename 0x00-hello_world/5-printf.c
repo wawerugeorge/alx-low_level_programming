@@ -1,4 +1,4 @@
-#incle < stdio.h >
+#include <stdio.h>
 /**
  * main -print a line using print f
  *
